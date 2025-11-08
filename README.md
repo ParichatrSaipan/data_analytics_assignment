@@ -1,9 +1,9 @@
 # Assignment: Data Analytics
-การวิเคราะห์ข้อมูลเบื้องต้นจากชุดข้อมูล ecommerce-data
+การวิเคราะห์ข้อมูลเบื้องต้นจากชุดข้อมูล AI Job Dataset
 
 ## ไฟล์ในโปรเจคนี้
 - [data.ipynb](./data.ipynb) : Jupyter Notebook สำหรับการวิเคราะห์ข้อมูล
-- [data.csv](./data.csv) : ชุดข้อมูลสำหรับการวิเคราะห์
+- [ai_job_dataset.csv](./ai_job_dataset.csv) : ชุดข้อมูลสำหรับการวิเคราะห์
 
 ## สมาชิกในกลุ่ม
 - นายเนติพงษ์ นันทิโชค 66010433
@@ -12,4 +12,4 @@
 - นางสาวปิยมน เอี้ยพิน 66010495
 
 ## แหล่งข้อมูล (Dataset)
-[ecommerce-data](https://www.kaggle.com/datasets/carrie1/ecommerce-data/data)
+
