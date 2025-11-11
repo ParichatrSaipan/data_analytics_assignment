@@ -1,5 +1,6 @@
-# Assignment: Data Analytics
-การวิเคราะห์ข้อมูลเบื้องต้นจากชุดข้อมูล AI Job Dataset
+# AI Job Salary Analysis and Market Insights 2025
+(การวิเคราะห์เงินเดือนและแนวโน้มตลาดแรงงานสายอาชีพ AI ปี 2025)
+
 
 ## ไฟล์ในโปรเจคนี้
 - [data.ipynb](./data.ipynb) : Jupyter Notebook สำหรับการวิเคราะห์ข้อมูล
@@ -12,4 +13,5 @@
 - นางสาวปิยมน เอี้ยพิน 66010495
 
 ## แหล่งข้อมูล (Dataset)
+[Global AI Job Market & Salary Trends 2025](https://www.kaggle.com/datasets/bismasajjad/global-ai-job-market-and-salary-trends-2025)  
 
