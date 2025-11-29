@@ -47,7 +47,7 @@ The dataset contains comprehensive information about AI-related positions worldw
 
 1. Clone this repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/ParichatrSaipan/data_analytics_project.git
 cd data_analytics_assignment
 ```
 
