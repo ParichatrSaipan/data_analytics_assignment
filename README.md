@@ -1,4 +1,4 @@
-# data Analytics Project: AI Job Salary Analysis and Market Insights 2025
+# Data Analytics Project: AI Job Salary Analysis and Market Insights 2025
 
 A comprehensive data analysis project exploring salary trends, market demands, and career insights in the AI industry for 2025.
 
